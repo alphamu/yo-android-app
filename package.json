@@ -1,6 +1,6 @@
 {
   "name": "generator-android-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate an Android app (Kotlin or Java) that uses Dagger, Retrofit, Room, Jetpack and Glide.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,13 +13,13 @@
     "url": "git+ssh://git@github.com/alphamu/yo-android-app.git"
   },
   "keywords": [
-    "yeoman",
-    "yo",
+    "yeoman-generator",
     "android",
     "dagger",
     "retrofit",
     "room",
-    "jetpack"
+    "jetpack",
+    "glide"
   ],
   "author": "Ali Muzaffar",
   "license": "MIT",
