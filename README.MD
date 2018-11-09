@@ -28,6 +28,7 @@ Make sure yeoman is installed, if it's not, install it:
 
 If Yeoman is installed, you can generate an app using:
 
+    npm install generator-android-app
     yo android-app
 
 This will result in something as follows:
