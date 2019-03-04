@@ -6,7 +6,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.2.1'
+        classpath 'com.android.tools.build:gradle:3.3.2'
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -23,13 +23,13 @@ allprojects {
         arch_version = '1.1.0'
         dagger_version = '2.17'
         glide_version = '4.8.0'
-        androidx_core = '1.0.1'
+        androidx_core = '1.1.0-alpha02'
         lifecycle_version = '2.0.0'
-        androidx_constraints = '2.0.0-alpha2'
+        androidx_constraints = '2.0.0-alpha3'
         firebase_core = '16.0.4'
         firebase_ml_vision = '17.0.1'
-        room_version = '2.1.0-alpha02'
-        material_io_version = '1.1.0-alpha01'
+        room_version = '2.1.0-alpha04'
+        material_io_version = '1.1.0-alpha04'
     }
 }
 

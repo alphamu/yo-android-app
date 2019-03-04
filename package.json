@@ -1,6 +1,6 @@
 {
   "name": "generator-android-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generate an Android app (Kotlin or Java) that uses Dagger, Retrofit, Room, Jetpack and Glide.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
