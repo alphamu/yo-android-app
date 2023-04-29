@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/alphamu/yo-android-app#readme",
   "dependencies": {
-    "yeoman-generator": "^3.1.1"
+    "yeoman-generator": "^5.8.0"
   }
 }
